@@ -1,0 +1,6 @@
+title: Your Name
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
