@@ -7,6 +7,12 @@ title: Home
 I am a researcher working in **market microstructure**, currently affiliated with **University of Oxford**.  
 My research focuses on **[main topic]**, with particular interest in **algorithmic trading**, **market microstructure**, and **market manipulation*.
 
+
+---
+
+*All content on this website is provided in my personal capacity and does not represent the views or positions of the institutions with which I am affiliated.*
+
+
 ---
 
 ## Research interests
