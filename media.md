@@ -12,7 +12,7 @@ This page highlights media coverage, interviews, podcasts, and other public ment
 - 2024 *TU Delft: Finance Research Day*: [Statistical Predictions of Trading Strategies in Electronic Markets](https://www.tudelft.nl/en/evenementen/2024/ewi/diam/finance-research-day/robert-graumans)
 
 ## Videos / Other Media
-- 2025 Spraakmakers: *AI op de beurs'*. [Watch](https://www.nporadio1.nl/fragmenten/spraakmakers/01968b87-0b09-7031-aeb4-4a48f4edf5c7/2025-05-01-ai-op-de-beurs))
+- 2025 Spraakmakers: *AI op de beurs'*. [Watch](https://www.nporadio1.nl/fragmenten/spraakmakers/01968b87-0b09-7031-aeb4-4a48f4edf5c7/2025-05-01-ai-op-de-beurs)
 - 2025 BNR Nieuwsradio: *AFM probeert grip te krijgen op groeiende rol van AI op de beurs* [Listen](https://www.bnr.nl/nieuws/economie/10561368/afm-probeert-grip-te-krijgen-op-groeiende-rol-van-ai-op-de-beurs)
 - 2025 etf.COM: *Study: Market 'Collusion' in ETF Trades on Euro Exchange* [Read](https://www.etf.com/sections/news/study-market-collusion-etf-trades-euro-exchange)
 - 2025 Risk.net: *Crossed signals: row over collusion pits scholars against traders* [Read](https://www.risk.net/markets/7961037/crossed-signals-row-over-collusion-pits-scholars-against-traders)
