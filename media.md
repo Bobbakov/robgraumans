@@ -17,3 +17,6 @@ This page highlights media coverage, interviews, podcasts, and other public ment
 - AG Connect: *AI op de beurs: zo houdt de AFM toezicht op ‘de slimsten van de klas’* [Read](https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/ai-op-de-beurs-zo-houdt-de-afm-toezicht-op-de-slimsten-van-de-klas)
 - The TRADE *Trading industry taking increasingly quantitative approach to market testing* [Read](https://www.thetradenews.com/trading-industry-taking-increasingly-quantitative-approach-to-market-testing/)
 - etf.COM *Study: Market 'Collusion' in ETF Trades on Euro Exchange* [Read](https://www.etf.com/sections/news/study-market-collusion-etf-trades-euro-exchange)
+- Risk.net *Crossed signals: row over collusion pits scholars against traders* [Read](https://www.risk.net/markets/7961037/crossed-signals-row-over-collusion-pits-scholars-against-traders)
+- ETF stream *Collusion claims cast a cloud over vital role of ETF market makers* [Read](https://www.etfstream.com/articles/collusion-claims-cast-a-cloud-over-vital-role-of-etf-market-makers)
+- The Alan Turing Institute *Statistical Predictions of Trading Strategies in Electronic Markets* [Read](https://www.turing.ac.uk/news/publications/statistical-predictions-trading-strategies-electronic-markets)
