@@ -1,13 +1,10 @@
-# ---
-# title: Home
-# ---
-
 <div style="display: flex; align-items: center;">
   <h1 style="margin-right: 20px;">Rob Graumans</h1>
   <img src="picture.jpg" alt="Rob Graumans" width="150" style="border-radius:50%;">
 </div>
 
-I am interested in the effect of algorithmic trading and machine learning on market quality and market integrity. My main focus is on understanding what market manipulation in the modern might look like, and understanding what drives trading algorithms to do what they do.
+I am interested in the effect of algorithmic trading and machine learning on market quality and market integrity. My main focus is on understanding what market manipulation in the modern might look like, what drives trading algorithms to do what they do, on collusion, and agent-based modelling of trading algorithms.
+
 ---
 
 *All content on this website is provided in my personal capacity and does not represent the views or positions of the institutions with which I am affiliated.*
